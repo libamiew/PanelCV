@@ -3,69 +3,69 @@
 /* ========================================================================================= */
 
 .btn-primary {
-    background: #afb9c8;
+    background: #23120b;
 }
 .btn-primary:hover {
-    background: #afb9c8;
+    background: #23120b;
 }
 a {
-    color: #afb9c8;
+    color: #23120b;
 }
 .icon_menu {
     background: #fff !important;
-    color: #afb9c8;
+    color: #23120b;
 }
 .icon_menu_active, .icon_menu_hover {
-    background: #afb9c8 !important;
+    background: #23120b !important;
     color: #fff !important;
     transition-property: background-color;
     transition-duration: 0.3s;
     transition-timing-function: linear;
 }
 .mCSB_dragger_bar {
-    background: #afb9c8 !important;
+    background: #23120b !important;
 }
 #style-2::-webkit-scrollbar-thumb {
-    background-color:#afb9c8;
+    background-color:#23120b;
 }
 .span-info {
-    color: #afb9c8;
+    color: #23120b;
 }
 #contactform .submit:hover, #comment_form .submit:hover {
     webkit-filter: brightness(98%) !important;
 }
 #profile .col-md-5 h2, #profile .col-md-5 h4, #resume .col-md-6 p, #resume .col-md-6 span.duration {
-    color: #afb9c8;
+    color: #23120b;
 }
 #resume .resume-left ul li h5 {
-    border-bottom: 1px solid #afb9c8;
+    border-bottom: 1px solid #23120b;
 }
 .attributes span.glyphicon, .attributes h6 {
-    color: #afb9c8;
+    color: #23120b;
 }
 .blog-article a.read_m:hover {
-    border: 1px solid #afb9c8;
-    background-color: #afb9c8;
+    border: 1px solid #23120b;
+    background-color: #23120b;
 }
 .border-list {
-    border: 1px solid #afb9c8;
+    border: 1px solid #23120b;
 }
 .content-post h1 {
-    color: #afb9c8;
+    color: #23120b;
 }
 a.readmore:hover, a.readmore:focus, a.readmore:active {
-    border: 1px solid #afb9c8;
-    background-color: #afb9c8;
+    border: 1px solid #23120b;
+    background-color: #23120b;
 }
 .border-list {
-    border: 1px solid #afb9c8;
+    border: 1px solid #23120b;
 }
 .content-post h1 {
-    color: #afb9c8;
+    color: #23120b;
 }
 a.readmore:hover, a.readmore:focus, a.readmore:active {
-    border: 1px solid #afb9c8;
-    background-color: #afb9c8;
+    border: 1px solid #23120b;
+    background-color: #23120b;
 }
 .ch-info-prof {
     background: rgba(76, 173, 252, 0.6);
@@ -74,13 +74,13 @@ a.readmore:hover, a.readmore:focus, a.readmore:active {
     color: #1a6161;
 }
 .download:hover span, .download:focus span {
-    background: #afb9c8;
+    background: #23120b;
 }
 .download span::before{
-    color: #afb9c8;
+    color: #23120b;
 }
 .download span, .ch-info .ch-info-back {
-    background: #afb9c8;
+    background: #23120b;
 }
 .resp-tabs-container h1 {
     color: #2d7e7e !important;
@@ -89,42 +89,42 @@ a.readmore:hover, a.readmore:focus, a.readmore:active {
 
 @media screen and (max-width:540px) {
     .content-inner {
-        border-top: 5px solid #afb9c8;
+        border-top: 5px solid #23120b;
     }
 }
 #contactform .submit, #comment_form .submit {
-    background-color: #afb9c8;
+    background-color: #23120b;
 }
 #profile .about i.glyphicon, #profile .about label {
-    color: #afb9c8;
+    color: #23120b;
 }
 #section-title, 
 #categories_sidebar ul.categories li a:hover {
-    background: #afb9c8;
+    background: #23120b;
 }
 #tags .tags_sidebar .tags-list li {
-    border: 1px solid #afb9c8;
-    color: #afb9c8;
+    border: 1px solid #23120b;
+    color: #23120b;
 }
 #tags .tags_sidebar .tags-list li a {
-    color: #afb9c8;
+    color: #23120b;
 }
 #tags .tags_sidebar .tags-list li:hover {
-    background: #afb9c8;
+    background: #23120b;
 }
 h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
-    border: 1px solid #afb9c8 !important;
+    border: 1px solid #23120b !important;
 }
 @media only screen and (max-width: 800px) {
     .icon_menu_active, .icon_menu_hover {
         background: #fff !important;
-        color: #afb9c8 !important;
+        color: #23120b !important;
         transition-property: background-color;
         transition-duration: 0.3s;
         transition-timing-function: linear;
     }
     h2.resp-accordion {
-        background: #afb9c8 !important;
+        background: #23120b !important;
     }
     h2.resp-accordion:hover {
         background: rgba(0, 135, 247, 0.8) !important;
@@ -134,35 +134,35 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     }
 }
 .title_content:after, .icon_content {
-    background: #afb9c8;
+    background: #23120b;
 }
 .text_content {
-    color: #afb9c8;
+    color: #23120b;
 }
 .panel-default>.panel-heading {
     color: #fff;
-    background-color: #afb9c8;
+    background-color: #23120b;
 }
 .nbs-flexisel-inner {
-    border: 5px solid #afb9c8;
+    border: 5px solid #23120b;
 }
 #nb_post, .reply, .tag, 
 .info-post i.glyphicon, 
 .info i.glyphicon, 
 i.fa-quote-left {
-    color: #afb9c8 !important;
+    color: #23120b !important;
 }
 .modal-header {
-    background: #afb9c8;
+    background: #23120b;
 }
 .skillbar-title, .skillbar-bar {
     background: rgba(0, 135, 247, 0.8);
 }
 .portfolio .label-bg, #filters li span.active {
-    background: #afb9c8;
+    background: #23120b;
 }
 .portfolio .label-bg, #filters li span:hover  {
-    background: #afb9c8;
+    background: #23120b;
     -webkit-transition: all .3s ease-in;
     -moz-transition: all .3s ease-in;
     -o-transition: all .3s ease-in;
@@ -171,25 +171,25 @@ i.fa-quote-left {
 
 #sidebar-right .search-blog i, 
 #sidebar-left .search-blog i {
-    background: #afb9c8;
+    background: #23120b;
 }
 .icon-switcher {	
-    color: #afb9c8 !important;
+    color: #23120b !important;
 }
 .resp-tabs-list li {
-    background: #afb9c8;
+    background: #23120b;
     color: #fff;
 }
 #services .pack-service .service-icon i {
-    border: 3px solid #afb9c8;
-    color: #afb9c8;
+    border: 3px solid #23120b;
+    color: #23120b;
     background: #fff;
 }
 #services .pack-service:hover .service-icon i {
-    background: #afb9c8;
+    background: #23120b;
 }
 .widget-profil{
-    background: #afb9c8;   
+    background: #23120b;   
 }
 .widget-profil .head-image{
     border: 10px solid #69a8a8;
@@ -217,13 +217,13 @@ i.fa-quote-left {
     color : #0087F7;
 }
 #profile_social a{
-    background-color: #afb9c8;
+    background-color: #23120b;
 }
 #blog .post_media {
-    border-top: 5px solid #afb9c8;
+    border-top: 5px solid #23120b;
 }
 #blog .post_media  .post-format-icon {
-    background: #afb9c8;
+    background: #23120b;
 }
 .reference span {
     color : #ffffff;
