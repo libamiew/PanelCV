@@ -394,9 +394,9 @@ h2.resp-accordion:first-child {
 }
 p {
     font-size: 15px;
-    line-height: 20px;
+    line-height: 24px;
     text-align: left;
-    font-weight: 500;
+    font-weight: 600;
     margin: 0;
     color: rgb(82, 82, 82) !important;
     font-family: 'Noto Sans KR', sans-serif;
