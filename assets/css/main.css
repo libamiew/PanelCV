@@ -138,7 +138,7 @@ a {
 }
 
 a {
-    color: #aee1e1;
+    color: #23120b;
     background: transparent
 }
 a:focus {
@@ -245,7 +245,7 @@ h2.resp-tab-active {
 }
 h2.resp-tab-title:last-child {
     border-bottom: 12px solid #ccc !important;
-    background: #aee1e1;
+    background: #23120b;
 }
 /*-----------------------------------*/
 /*-----------Vertical tabs-----------*/
