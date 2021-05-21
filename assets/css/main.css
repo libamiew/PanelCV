@@ -1019,6 +1019,7 @@ ul.about {
     margin: 0px 0px 0px 5px;
     padding: 0;
     border-width: 1px;
+    border-radius: 1rem;
     border-style: solid;
     text-align: center;
     font-size: 24px;
