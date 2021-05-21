@@ -71,7 +71,7 @@ a.readmore:hover, a.readmore:focus, a.readmore:active {
     background: rgba(76, 173, 252, 0.6);
 }
 #profile .col-md-6 h1 {
-    color: #21209c;
+    color: #f1f1f1;
 }
 .download:hover span, .download:focus span {
     background: #21209c;
@@ -83,7 +83,7 @@ a.readmore:hover, a.readmore:focus, a.readmore:active {
     background: #21209c;
 }
 .resp-tabs-container h1 {
-    color: #21209c !important;
+    color: #f1f1f1 !important;
     background: url(../../images/arrows-h3/arrow-DarkBlue-h3.png) no-repeat 0px 3px;
 }
 

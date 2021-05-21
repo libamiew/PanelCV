@@ -99,6 +99,11 @@ h1 {
     padding: 0;
     margin: 0;
 }
+
+h1.h-bloc{
+    color: #f1f1f1;
+}
+
 .resp-tabs-container h1 {
     font-size: 26px;
     color: #d3e0dc;
@@ -143,9 +148,7 @@ a:hover {
     outline: 0
 }
 
-.h-bloc{
-    color: #f1f1f1;
-}
+
 
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
 /*--------------------------------------------------
