@@ -12,12 +12,12 @@ a {
     color: #21209c;
 }
 .icon_menu {
-    background: #fff !important;
+    background: #f1f1f1 !important;
     color: #21209c;
 }
 .icon_menu_active, .icon_menu_hover {
     background: #21209c !important;
-    color: #fff !important;
+    color: #f1f1f1 !important;
     transition-property: background-color;
     transition-duration: 0.3s;
     transition-timing-function: linear;
@@ -41,7 +41,7 @@ a {
     border-bottom: 1px solid #21209c;
 }
 .attributes span.glyphicon, .attributes h6 {
-    color: #21209c;
+    color: #f1f1f1;
 }
 .blog-article a.read_m:hover {
     border: 1px solid #21209c;
@@ -51,17 +51,17 @@ a {
     border: 1px solid #21209c;
 }
 .content-post h1 {
-    color: #21209c;
+    color: #f1f1f1;
 }
 a.readmore:hover, a.readmore:focus, a.readmore:active {
-    border: 1px solid #21209c;
-    background-color: #21209c;
+    border: 1px solid #3737ff;
+    background-color: #3737ff;
 }
 .border-list {
     border: 1px solid #21209c;
 }
 .content-post h1 {
-    color: #21209c;
+    color: #f1f1f1;
 }
 a.readmore:hover, a.readmore:focus, a.readmore:active {
     border: 1px solid #21209c;
@@ -96,7 +96,7 @@ a.readmore:hover, a.readmore:focus, a.readmore:active {
     background-color: #21209c;
 }
 #profile .about i.glyphicon, #profile .about label {
-    color: #21209c;
+    color: #f1f1f1;
 }
 #section-title, #categories_sidebar ul.categories li a:hover {
     background: #21209c;
@@ -116,7 +116,7 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
 }
 @media only screen and (max-width: 800px) {
     .icon_menu_active, .icon_menu_hover {
-        background: #fff !important;
+        background: #f1f1f1 !important;
         color: #21209c !important;
         transition-property: background-color;
         transition-duration: 0.3s;
@@ -133,13 +133,13 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     }
 }
 .title_content:after, .icon_content {
-    background: #ffffff;
+    background: #f1f1f1;
 }
 .text_content {
-    color: #ffffff;
+    color: #f1f1f1;
 }
 .panel-default>.panel-heading {
-    color: #fff;
+    color: #f1f1f1;
     background-color: #21209c;
 }
 .nbs-flexisel-inner {
@@ -169,12 +169,12 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
 }
 .resp-tabs-list li {
     background: #21209c;
-    color: #fff;
+    color: #f1f1f1;
 }
 #services .pack-service .service-icon i {
     border: 3px solid #21209c;
     color: #21209c;
-    background: #fff;
+    background: #f1f1f1;
 }
 #services .pack-service:hover .service-icon i {
     background: #21209c;
@@ -189,20 +189,20 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     border: 10px solid #21209c;
 }
 .widget-profil  h1 {
-    color:#ffffff;
+    color:#f1f1f1;
 }
 .widget-profil  h4 {
-    color:#ffffff; 
+    color:#f1f1f1; 
 }
 .widget-profil  h6 {
-    color:#ffffff; 
+    color:#f1f1f1; 
 }
 .widget-profil  p {
-    color:#ffffff !important;
+    color:#f1f1f1 !important;
 }
 .widget-profil #profile_desc {
-    border-bottom: 1px solid #ffffff;
-    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #f1f1f1;
+    border-top: 1px solid #f1f1f1;
 }
 #profile_social a:hover {
     color : #21209c;
