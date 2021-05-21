@@ -57,7 +57,7 @@ body {
     margin: 0;
     font-family: 'Noto Sans KR', sans-serif;
     font-weight: 300;
-    font-size: 20px;
+    font-size: 16px;
     line-height: 25px;
     color: #333333;
     overflow-x: hidden;
@@ -393,11 +393,11 @@ h2.resp-accordion:first-child {
     top: 2px;
 }
 p {
-    font-size: 14px;
+    font-size: 16px;
     line-height: 22px;
     text-align: left;
     margin: 0;
-    color: #999 !important;
+    color: rgb(65, 65, 65) !important;
     font-family: 'Noto Sans KR', sans-serif;
 }
 .active-hi-icon {
