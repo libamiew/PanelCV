@@ -2830,7 +2830,7 @@ li h6{
     cursor: pointer;
     float: left;
     text-align: center;
-    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 0 1px #fdb827;
 }
 
 .icon_print {
