@@ -126,10 +126,10 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
         background: #21209c !important;
     }
     h2.resp-accordion:hover {
-        background: #85acac !important;
+        background: #fdb827 !important;
     }
     h2.resp-tab-active {
-        background: #85acac !important;
+        background: #fdb827 !important;
     }
 }
 .title_content:after, .icon_content {
