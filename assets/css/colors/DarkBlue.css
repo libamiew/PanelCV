@@ -35,7 +35,7 @@ a {
     webkit-filter: brightness(98%) !important;
 }
 #profile .col-md-5 h2, #profile .col-md-5 h4, #resume .col-md-6 p, #resume .col-md-6 span.duration {
-    color: #21209c;
+    color: #f1f1f1;
 }
 #resume .resume-left ul li h5 {
     border-bottom: 1px solid #21209c;
