@@ -1272,6 +1272,7 @@ ul.about {
 
 #resume .col-md-6 span.duration {
     float: right;
+    color: #f1f1f1;
 }
 #resume .col-md-6 ul li {
     list-style: none;
@@ -1287,6 +1288,7 @@ ul.about {
 
 #resume .attributes .duration i{
     margin-right: 5px;
+    color: #f1f1f1;
 }
 
 #resume h5,
