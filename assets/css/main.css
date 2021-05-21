@@ -831,7 +831,7 @@ h2.resp-accordion:hover {
 }
 
 ul.about li span.value {
-    width: 220px;
+    /*width: 220px;*/
     text-align: left;
     float: right;
 }
