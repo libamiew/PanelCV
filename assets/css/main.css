@@ -2381,12 +2381,12 @@ ul.info-post li {
     }
 
     .title_content:after {
-        width: 155px;
+        width: 15px;
     }
 
     ul.about li {
         padding-left: 2px;
-        font-size: 9px;
+        font-size: 15px;
     }
 
     #profile .about i.glyphicon {
