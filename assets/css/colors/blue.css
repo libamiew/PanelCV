@@ -198,16 +198,16 @@ i.fa-quote-left {
     border: 10px solid #ffffff;
 }
 .widget-profil  h1 {
-    color:#78c2ff;
+    color:#ffffff;
 }
 .widget-profil  h4 {
-    color:#78c2ff; 
+    color:#e6e6e6; 
 }
 .widget-profil  h6 {
-    color:#78c2ff;   
+    color:#e7e7e7;   
 }
 .widget-profil  p {
-    color:#78c2ff !important;
+    color:#e6e6e6 !important;
 }
 .widget-profil #profile_desc {
     border-bottom: 1px solid #78c2ff;
