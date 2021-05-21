@@ -86,13 +86,13 @@ h1 {
 }
 .resp-tabs-container h1 {
     font-size: 26px;
-    color: #999;
+    color: #d3e0dc;
     text-transform: inherit;
     margin-top: 0;
     margin-bottom: 15px;
     padding-bottom: 10px;
     padding-left: 30px;
-    border-bottom: 1px solid #e6e6e6;
+    border-bottom: 0px solid #e6e6e6;
 }
 
 .resp-tabs-container h1:not(.h-bloc) {
