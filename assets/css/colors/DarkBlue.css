@@ -26,7 +26,7 @@ a {
     background: #21209c !important;
 }
 #style-2::-webkit-scrollbar-thumb {
-    background-color:#21209c;
+    background-color:#fdb827;
 }
 .span-info {
     color: #21209c;
@@ -133,10 +133,10 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     }
 }
 .title_content:after, .icon_content {
-    background: #21209c;
+    background: #ffffff;
 }
 .text_content {
-    color: #21209c;
+    color: #ffffff;
 }
 .panel-default>.panel-heading {
     color: #fff;
