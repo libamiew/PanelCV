@@ -2746,14 +2746,15 @@ li h6{
     -o-transition: all 0.5s ease 0s;
 }
 #services .pack-service:hover .service-icon i {
-    border: 3px solid #ccc;
-    color: #fff;
+    border: 3px solid #fdb827;
+    color: #f1f1f1;
     transform: scale(1) rotate(360deg);
     -webkit-transform: scale(1) rotate(360deg);
     -moz-transform: scale(1) rotate(360deg);
     -o-transform: scale(1) rotate(360deg);
 }
 #services .service-detail h6 {
+    color: #f1f1f1;
     text-transform: uppercase;
     font-weight: 500;
     margin: 10px 0 3px 0;
@@ -2763,6 +2764,7 @@ li h6{
 #services .service-detail p {
     text-align: center;
     border-left: 0;
+    color: #f1f1f1;
 }
 
 #blog .post_media  .post-format-icon {
