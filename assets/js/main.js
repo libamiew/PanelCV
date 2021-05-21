@@ -41,7 +41,7 @@ jQuery(document).ready(function($) {
         $("h2.resp-accordion").not(this).find(".icon_menu").removeClass("icon_menu_active");
 
         /*	Scroll To */
-        $('html, body').animate({scrollTop: $('h2.resp-accordion').offset().top - 50}, 600);
+        $('html, body').animate({scrollTop: $('h2.resp-accordion').offset().top - 50}, 1000);
     });
 
     $(".resp-tabs-list li").click(function() {
