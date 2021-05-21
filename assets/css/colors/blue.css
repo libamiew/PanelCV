@@ -210,8 +210,8 @@ i.fa-quote-left {
     color:#e6e6e6 !important;
 }
 .widget-profil #profile_desc {
-    border-bottom: 1px solid #78c2ff;
-    border-top: 1px solid #78c2ff;
+    border-bottom: 1px solid #ffffff;
+    border-top: 1px solid #ffffff;
 }
 #profile_social a:hover {
     color : #0087F7;
@@ -226,5 +226,5 @@ i.fa-quote-left {
     background: #8ab6d6;
 }
 .reference span {
-    color : #8ab6d6;
+    color : #ffffff;
 }
