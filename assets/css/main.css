@@ -55,7 +55,7 @@
     display: none;
 }
 label {
-    font-weight: 400 !important;
+    /*font-weight: 400 !important;*/
 }
 .text-left {
     text-align: left !important;
@@ -381,6 +381,7 @@ h2.resp-accordion:first-child {
     }
     ul.about li span.value {
         margin-right: 30px;
+        font-weight: bold;
     }
     .tite-list-resp{
         position: relative;
