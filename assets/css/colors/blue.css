@@ -3,128 +3,128 @@
 /* ========================================================================================= */
 
 .btn-primary {
-    background: #0087F7;
+    background: #aee1e1;
 }
 .btn-primary:hover {
-    background: #0087F7;
+    background: #aee1e1;
 }
 a {
-    color: #0087F7;
+    color: #aee1e1;
 }
 .icon_menu {
     background: #fff !important;
-    color: #0087F7;
+    color: #aee1e1;
 }
 .icon_menu_active, .icon_menu_hover {
-    background: #0087F7 !important;
+    background: #aee1e1 !important;
     color: #fff !important;
     transition-property: background-color;
     transition-duration: 0.3s;
     transition-timing-function: linear;
 }
 .mCSB_dragger_bar {
-    background: #0087F7 !important;
+    background: #aee1e1 !important;
 }
 #style-2::-webkit-scrollbar-thumb {
-    background-color:#0087F7;
+    background-color:#aee1e1;
 }
 .span-info {
-    color: #0087F7;
+    color: #aee1e1;
 }
 #contactform .submit:hover, #comment_form .submit:hover {
     webkit-filter: brightness(98%) !important;
 }
 #profile .col-md-5 h2, #profile .col-md-5 h4, #resume .col-md-6 p, #resume .col-md-6 span.duration {
-    color: #0087F7;
+    color: #aee1e1;
 }
 #resume .resume-left ul li h5 {
-    border-bottom: 1px solid #0087F7;
+    border-bottom: 1px solid #aee1e1;
 }
 .attributes span.glyphicon, .attributes h6 {
-    color: #0087F7;
+    color: #aee1e1;
 }
 .blog-article a.read_m:hover {
-    border: 1px solid #0087F7;
-    background-color: #0087F7;
+    border: 1px solid #aee1e1;
+    background-color: #aee1e1;
 }
 .border-list {
-    border: 1px solid #0087F7;
+    border: 1px solid #aee1e1;
 }
 .content-post h1 {
-    color: #0087F7;
+    color: #aee1e1;
 }
 a.readmore:hover, a.readmore:focus, a.readmore:active {
-    border: 1px solid #0087F7;
-    background-color: #0087F7;
+    border: 1px solid #aee1e1;
+    background-color: #aee1e1;
 }
 .border-list {
-    border: 1px solid #0087F7;
+    border: 1px solid #aee1e1;
 }
 .content-post h1 {
-    color: #0087F7;
+    color: #aee1e1;
 }
 a.readmore:hover, a.readmore:focus, a.readmore:active {
-    border: 1px solid #0087F7;
-    background-color: #0087F7;
+    border: 1px solid #aee1e1;
+    background-color: #aee1e1;
 }
 .ch-info-prof {
     background: rgba(76, 173, 252, 0.6);
 }
 #profile .col-md-6 h1 {
-    color: #0087F7;
+    color: #1a6161;
 }
 .download:hover span, .download:focus span {
-    background: #0087F7;
+    background: #aee1e1;
 }
 .download span::before{
-    color: #0087F7;
+    color: #aee1e1;
 }
 .download span, .ch-info .ch-info-back {
-    background: #0087F7;
+    background: #aee1e1;
 }
 .resp-tabs-container h1 {
-    color: #0087F7 !important;
+    color: #2d7e7e !important;
     background: url(../../images/arrows-h3/arrow-blue-h3.png) no-repeat 0px 3px;
 }
 
 @media screen and (max-width:540px) {
     .content-inner {
-        border-top: 5px solid #0087F7;
+        border-top: 5px solid #aee1e1;
     }
 }
 #contactform .submit, #comment_form .submit {
-    background-color: #0087F7;
+    background-color: #aee1e1;
 }
 #profile .about i.glyphicon, #profile .about label {
-    color: #0087F7;
+    color: #aee1e1;
 }
 #section-title, 
 #categories_sidebar ul.categories li a:hover {
-    background: #0087F7;
+    background: #aee1e1;
 }
 #tags .tags_sidebar .tags-list li {
-    border: 1px solid #0087F7;
-    color: #0087F7;
+    border: 1px solid #aee1e1;
+    color: #aee1e1;
 }
 #tags .tags_sidebar .tags-list li a {
-    color: #0087F7;
+    color: #aee1e1;
 }
 #tags .tags_sidebar .tags-list li:hover {
-    background: #0087F7;
+    background: #aee1e1;
 }
 h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
-    border: 1px solid #0087F7 !important;
+    border: 1px solid #aee1e1 !important;
 }
 @media only screen and (max-width: 800px) {
     .icon_menu_active, .icon_menu_hover {
         background: #fff !important;
-        color: #0087F7 !important;
+        color: #aee1e1 !important;
         transition-property: background-color;
         transition-duration: 0.3s;
         transition-timing-function: linear;
     }
     h2.resp-accordion {
-        background: #0087F7 !important;
+        background: #aee1e1 !important;
     }
     h2.resp-accordion:hover {
         background: rgba(0, 135, 247, 0.8) !important;
@@ -134,35 +134,35 @@ h2.resp-accordion:hover .hi-icon, .no-touch .hi-icon-effect-5 .hi-icon:hover {
     }
 }
 .title_content:after, .icon_content {
-    background: #0087F7;
+    background: #aee1e1;
 }
 .text_content {
-    color: #0087F7;
+    color: #aee1e1;
 }
 .panel-default>.panel-heading {
     color: #fff;
-    background-color: #0087F7;
+    background-color: #aee1e1;
 }
 .nbs-flexisel-inner {
-    border: 5px solid #0087F7;
+    border: 5px solid #aee1e1;
 }
 #nb_post, .reply, .tag, 
 .info-post i.glyphicon, 
 .info i.glyphicon, 
 i.fa-quote-left {
-    color: #0087F7 !important;
+    color: #aee1e1 !important;
 }
 .modal-header {
-    background: #0087F7;
+    background: #aee1e1;
 }
 .skillbar-title, .skillbar-bar {
     background: rgba(0, 135, 247, 0.8);
 }
 .portfolio .label-bg, #filters li span.active {
-    background: #0087F7;
+    background: #aee1e1;
 }
 .portfolio .label-bg, #filters li span:hover  {
-    background: #0087F7;
+    background: #aee1e1;
     -webkit-transition: all .3s ease-in;
     -moz-transition: all .3s ease-in;
     -o-transition: all .3s ease-in;
@@ -171,31 +171,31 @@ i.fa-quote-left {
 
 #sidebar-right .search-blog i, 
 #sidebar-left .search-blog i {
-    background: #0087F7;
+    background: #aee1e1;
 }
 .icon-switcher {	
-    color: #0087F7 !important;
+    color: #aee1e1 !important;
 }
 .resp-tabs-list li {
-    background: #0087F7;
+    background: #aee1e1;
     color: #fff;
 }
 #services .pack-service .service-icon i {
-    border: 3px solid #0087F7;
-    color: #0087F7;
+    border: 3px solid #aee1e1;
+    color: #aee1e1;
     background: #fff;
 }
 #services .pack-service:hover .service-icon i {
-    background: #0087F7;
+    background: #aee1e1;
 }
 .widget-profil{
-    background: #0087F7;   
+    background: #aee1e1;   
 }
 .widget-profil .head-image{
-    border: 10px solid #2b9fff;
+    border: 10px solid #69a8a8;
 }
 .widget-profil .circle-img {
-    border: 10px solid #2b9fff;
+    border: 10px solid #69a8a8;
 }
 .widget-profil  h1 {
     color:#78c2ff;
